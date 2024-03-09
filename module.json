@@ -24,7 +24,7 @@
     }
   ],
   "manifest": "https://github.com/That-Italian-Guy/fvtt-echoes-of-the-void/raw/main/module.json",
-    "download": "https://github.com/That-Italian-Guy/ffs/fvtt-echoes-of-the-void/main/echoes-of-the-void.zip"
+  "download": "https://github.com/That-Italian-Guy/ffs/fvtt-echoes-of-the-void/main/echoes-of-the-void.zip",
   "url": "https://that-italian-guy.github.io/dungeon-dynamics/",
   "packs": [
     {
