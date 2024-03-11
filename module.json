@@ -25,7 +25,7 @@
   ],
   "url": "https://that-italian-guy.github.io/dungeon-dynamics/",
   "manifest": "https://github.com/That-Italian-Guy/fvtt-echoes-of-the-void/raw/main/module.json",
-  "download": "https://github.com/That-Italian-Guy/fvtt-echoes-of-the-void/archive/refs/tags/v1.0.2.zip",
+  "download": "https://github.com/That-Italian-Guy/fvtt-echoes-of-the-void/archive/refs/tags/v1.0.3.zip",
   "packs": [
     {
       "name": "eotv-adventure",
