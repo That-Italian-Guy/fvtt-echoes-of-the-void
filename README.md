@@ -10,13 +10,10 @@ Their journey leads them to the abandoned tower ruin, where they confront not on
 ## Credits
 This adventure was written for and published on the [Dungeon Dynamics](https://dungeondynamics.wordpress.com/) blog.
 
-**Writer, Designer, Editor** — Andrea Aloisi
-
-**Art in Banner, Landing Page and Tokens** — Lion Banner Games
-
-**Peer Review** — Roman Penna
-
-**Alpha Playtesters** — Albo, Austin Bush, Gemmo, Jethoof, Sami Khan
+- **Writer, Designer, Editor** — Andrea Aloisi
+- **Art in Banner, Landing Page and Tokens** — Lion Banner Games
+- **Peer Review** — Roman Penna
+- **Alpha Playtesters** — Albo, Austin Bush, Gemmo, Jethoof, Sami Khan
 
 All Art from Lion Banner Games is their property and is not Open Content. This work includes material from the [System Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document) (“SRD 5.1”) by Wizards of the Coast LLC, licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode). Reference to copyright material in no way constitutes a challenge to the respective copyright holder of that material.
 
