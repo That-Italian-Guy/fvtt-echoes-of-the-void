@@ -1,0 +1,41 @@
+{
+  "id": "echoes-of-the-void",
+  "title": "Echoes of the Void",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Embark on a thrilling adventure in \"Echoes of the Void\" as you delve into a village plagued by mysterious disappearances. Piece together clues and navigate haunted landscapes as you confront the eldritch horrors threatening to tear apart reality itself.",
+  "authors": [
+    {
+      "name": "Andrea Aloisi",
+      "url": "https://that-italian-guy.github.io/dungeon-dynamics/",
+      "flags": {}
+    }
+  ],
+  "url": "https://that-italian-guy.github.io/dungeon-dynamics/",
+  "packs": [
+    {
+      "name": "eotv-adventure",
+      "label": "EOTV Adventure",
+      "path": "packs/eotv-adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
